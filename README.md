@@ -1,30 +1,35 @@
-Agency Jekyll theme
-====================
-
+my jekyll crash course
+  
+**install**
+    
+    
+    git clone https://github.com/mthjn/agency-jekyll-theme.git
+    gem install jekyll
+    jekyll serve  
+    
+  
+**deploy**  
+   
+   
+    jekyll
+    #copy the _site
+   
+   
+or post [receive hook](http://jekyllrb.com/docs/deployment-methods/)
+  
 Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
-
-# How to use
-
-###Portfolio 
-
+  
+**How to use**  
+Portfolio 
 Portfolio projects are in '/_posts'
-
 Images are in '/img/portfolio'
-
-###About
-
+  
+About
 Images are in '/img/about/'
-
-###Team
-
+  
+Team
 Team members and info are in '_config.yml'
-
 Images are in '/img/team/'
+  
+[demo](https://y7kim.github.io/agency-jekyll-theme)
 
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
