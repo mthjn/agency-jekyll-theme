@@ -11,11 +11,11 @@ my jekyll crash course
 **deploy**  
    
    
-    jekyll
-    #copy the _site
+    jekyll build
+    #copy the _site dir
    
    
-or post [receive hook](http://jekyllrb.com/docs/deployment-methods/)
+or dpl [with git](https://www.digitalocean.com/community/tutorials/how-to-deploy-jekyll-blogs-with-git)
   
 Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
   
