@@ -31,5 +31,5 @@ Team
 Team members and info are in '_config.yml'
 Images are in '/img/team/'
   
-[demo](https://y7kim.github.io/agency-jekyll-theme)
+[demo](http://mthjn.github.io/agency-jekyll-theme/)
 
